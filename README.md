@@ -22,4 +22,10 @@ Dê uma olhada!
 Hi.
 I improved this site a bit, corrected some bugs and added a few things.
 Take a look!
+-----------------------
+v 1.0.2
+Opa,estou em uma correria,mas consegui atualizar um pouco o portifólio com um header e botões melhores!
+Obrigado.
 
+Hey,i've been in kinda rush,but i updated the portifolio with better header and better buttons!
+Thanks.
