@@ -1,4 +1,4 @@
-# Portifolio_1.0.1
+# Portifolio_1.0.2
 
 v 1.0.0
 Meu primeiro portfólio (2º semestre 2026). Site, css, tudo feito no Vs code.
