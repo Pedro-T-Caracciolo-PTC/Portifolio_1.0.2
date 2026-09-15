@@ -1,4 +1,4 @@
-# Portifolio_1.0.2
+# Portifolio_1.0.2.5
 
 v 1.0.0
 Meu primeiro portfólio (2º semestre 2026). Site, css, tudo feito no Vs code.
@@ -29,3 +29,4 @@ Obrigado.
 
 Hey,i've been in kinda rush,but i updated the portifolio with better header and better buttons!
 Thanks.
+------------------------
